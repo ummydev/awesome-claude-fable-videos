@@ -8,7 +8,7 @@ A curated list of **videos made with Claude Fable 5.2**, Anthropic's model relea
 
 **28 videos · 4 with prompts · 4 you can open yourself** · Updated 2026-11-12
 
-Looking for games? See **[awesome-claude-fable-games](https://github.com/ummydev/awesome-claude-fable-games)**.
+Looking for games? See **[awesome-claude-fable-games](https://github.com/ummydev/awesome-claude-fable-games)**. For launch films and motion graphics made with Opus 5.5, see **[awesome-claude-motion-video](https://github.com/ummydev/awesome-claude-motion-video)**.
 
 ## Contents
 
