@@ -4,7 +4,7 @@
 
 <img src="assets/mosaic.jpg" alt="Frames from videos made with Claude Fable 5.2: Istanbul from the air, a locomotive anime, a voxel pagoda, a rainy Tokyo alley, a pirate ship at sunset and more" width="100%">
 
-A curated list of **videos made with Claude Fable 5.2**, Anthropic's model released on November 9, 2026. Most of them are pure code, in Three.js, WebGL, Remotion or Blender driven from Python, with no image or video model involved. Short films, 3D worlds, landing pages and science visuals, each credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
+A curated list of **videos made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026. Each entry names the model its maker says they used. Most of them are pure code, in Three.js, WebGL, Remotion or Blender driven from Python, with no image or video model involved. Short films, 3D worlds, landing pages and science visuals, each credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
 **32 videos · 4 with prompts · 4 you can open yourself** · Updated 2026-11-12
 
@@ -25,40 +25,40 @@ Looking for games? See **[awesome-claude-fable-games](https://github.com/ummydev
 
 Sorted by our score, then by likes on the original post. Click a frame to jump to the details.
 
-| | Video | Maker | Likes | Views | Score |
-|---|---|---|---|---|---|
-| <a href="#istanbul"><img src="assets/shots/istanbul-1.jpg" width="160" alt="Istanbul, built from a prompt"></a> | **[Istanbul, built from a prompt](#istanbul)**<br><sub>3D worlds and dioramas</sub> | [Peter Gostev](https://x.com/petergostev) | 2.9K | 468.1K | 10/10 |
-| <a href="#locomotive-robot-anime"><img src="assets/shots/locomotive-robot-anime-1.jpg" width="160" alt="A 90-second anime short: a steam locomotive becomes a robot"></a> | **[A 90-second anime short: a steam locomotive becomes a robot](#locomotive-robot-anime)**<br><sub>Films and animated shorts</sub> | [0kncn](https://x.com/0kncn) | 409 | 69.5K | 10/10 |
-| <a href="#constructivist-chat-ui"><img src="assets/shots/constructivist-chat-ui-1.jpg" width="160" alt="A constructivist chat app that changes form"></a> | **[A constructivist chat app that changes form](#constructivist-chat-ui)**<br><sub>Websites and interactive pages</sub> | [396](https://www.xiaohongshu.com/explore/6af43061000000002b005285) | 1.5K |  | 9/10 |
-| <a href="#art-history-cat"><img src="assets/shots/art-history-cat-1.jpg" width="160" alt="40,000 years of art history in one prompt"></a> | **[40,000 years of art history in one prompt](#art-history-cat)**<br><sub>Films and animated shorts</sub> | [Tommy618](https://www.xiaohongshu.com/explore/6af35ef7000000002501da46) | 315 |  | 9/10 |
-| <a href="#geonosis-battle-blender"><img src="assets/shots/geonosis-battle-blender-1.jpg" width="160" alt="A Star Wars battle built in Blender"></a> | **[A Star Wars battle built in Blender](#geonosis-battle-blender)**<br><sub>Films and animated shorts</sub> | [Aditya](https://x.com/adityavg13) | 292 | 44.3K | 9/10 |
-| <a href="#laundry-in-the-sun"><img src="assets/shots/laundry-in-the-sun-1.jpg" width="160" alt="Laundry on a line in the afternoon light"></a> | **[Laundry on a line in the afternoon light](#laundry-in-the-sun)**<br><sub>Films and animated shorts</sub> | [Dan Fein](https://x.com/dfeinition) | 210 | 8.3K | 9/10 |
-| <a href="#auric-voyage"><img src="assets/shots/auric-voyage-1.jpg" width="160" alt="Auric Voyage: a golden ship above the clouds"></a> | **[Auric Voyage: a golden ship above the clouds](#auric-voyage)**<br><sub>3D worlds and dioramas</sub> | [Marcel](https://x.com/marcthecreatorr) | 111 | 4.8K | 9/10 |
-| <a href="#pirate-ship"><img src="assets/shots/pirate-ship-1.jpg" width="160" alt="A pirate ship sailing at sunset"></a> | **[A pirate ship sailing at sunset](#pirate-ship)**<br><sub>3D worlds and dioramas</sub> | [J A Z I I](https://x.com/notjazii) | 110 | 4.7K | 9/10 |
-| <a href="#voxel-pagoda"><img src="assets/shots/voxel-pagoda-1.jpg" width="160" alt="A voxel pagoda full of tiny details"></a> | **[A voxel pagoda full of tiny details](#voxel-pagoda)**<br><sub>3D worlds and dioramas</sub> | [Lumina](https://x.com/LuminaBench) | 104 | 4.5K | 9/10 |
-| <a href="#fushimi-inari-travel-ad"><img src="assets/shots/fushimi-inari-travel-ad-1.jpg" width="160" alt="A travel ad for Fushimi Inari in autumn"></a> | **[A travel ad for Fushimi Inari in autumn](#fushimi-inari-travel-ad)**<br><sub>Films and animated shorts</sub> | [Peter Yang](https://x.com/petergyang) | 83 | 10K | 9/10 |
-| <a href="#rainy-tokyo-alley"><img src="assets/shots/rainy-tokyo-alley-1.jpg" width="160" alt="A rainy Tokyo alley made without a video model"></a> | **[A rainy Tokyo alley made without a video model](#rainy-tokyo-alley)**<br><sub>Films and animated shorts</sub> | [Higgsfield AI](https://x.com/higgsfield_ai) | 68 | 11.2K | 9/10 |
-| <a href="#voxel-paris-1888"><img src="assets/shots/voxel-paris-1888-1.jpg" width="160" alt="Paris in 1888, the Eiffel Tower under construction"></a> | **[Paris in 1888, the Eiffel Tower under construction](#voxel-paris-1888)**<br><sub>3D worlds and dioramas</sub> | [Rez](https://x.com/RezAIT00) | 41 | 4.5K | 9/10 |
-| <a href="#abyssal-landing-page"><img src="assets/shots/abyssal-landing-page-1.jpg" width="160" alt="Abyssal: a landing page that scrolls into the ocean"></a> | **[Abyssal: a landing page that scrolls into the ocean](#abyssal-landing-page)**<br><sub>Websites and interactive pages</sub> | [Pratzyy](https://x.com/pratyushrungta) | 9 | 456 | 9/10 |
-| <a href="#liquid-glass-type"><img src="assets/shots/liquid-glass-type-1.jpg" width="160" alt="Glass, amber and liquid metal type"></a> | **[Glass, amber and liquid metal type](#liquid-glass-type)**<br><sub>Websites and interactive pages</sub> | [Iliyass](https://x.com/ioTanjiro) | 6 | 282 | 9/10 |
-| <a href="#night-tokyo-ramen-stall"><img src="assets/shots/night-tokyo-ramen-stall-1.jpg" width="160" alt="A ramen stall on a rainy Tokyo night"></a> | **[A ramen stall on a rainy Tokyo night](#night-tokyo-ramen-stall)**<br><sub>3D worlds and dioramas</sub> | [sprinntt](https://x.com/sprinntt) | 3 | 1K | 9/10 |
-| <a href="#crystal-bud-flight"><img src="assets/shots/crystal-bud-flight-1.jpg" width="160" alt="A crystal bud, then a flight over purple fields"></a> | **[A crystal bud, then a flight over purple fields](#crystal-bud-flight)**<br><sub>Films and animated shorts</sub> | [每天懂点AI](https://www.xiaohongshu.com/explore/6af2654f000000002a02a15b) | 176 |  | 8/10 |
-| <a href="#pet-robot"><img src="assets/shots/pet-robot-1.jpg" width="160" alt="A pet robot you could build at home"></a> | **[A pet robot you could build at home](#pet-robot)**<br><sub>Films and animated shorts</sub> | [Matt Shumer](https://x.com/mattshumer_) | 151 | 138.4K | 8/10 |
-| <a href="#blender-island-rebuild"><img src="assets/shots/blender-island-rebuild-1.jpg" width="160" alt="An island rebuilt in Blender from a reference"></a> | **[An island rebuilt in Blender from a reference](#blender-island-rebuild)**<br><sub>3D worlds and dioramas</sub> | [sweetretry](https://www.xiaohongshu.com/explore/6af29c4a0000000018027978) | 85 |  | 8/10 |
-| <a href="#floating-pixel-island"><img src="assets/shots/floating-pixel-island-1.jpg" width="160" alt="A floating pixel island"></a> | **[A floating pixel island](#floating-pixel-island)**<br><sub>3D worlds and dioramas</sub> | [JUMPERZ](https://x.com/jumperz) | 75 | 3K | 8/10 |
-| <a href="#talking-village"><img src="assets/shots/talking-village-1.jpg" width="160" alt="A European village where every character thinks"></a> | **[A European village where every character thinks](#talking-village)**<br><sub>3D worlds and dioramas</sub> | [Matthew Berman](https://x.com/MatthewBerman) | 61 | 5.4K | 8/10 |
-| <a href="#virus-capsid"><img src="assets/shots/virus-capsid-1.jpg" width="160" alt="A virus shell assembling itself"></a> | **[A virus shell assembling itself](#virus-capsid)**<br><sub>Science, space and data</sub> | [Tekon Burns](https://x.com/TekonBurns) | 55 | 3.8K | 8/10 |
-| <a href="#lighthouse-in-a-storm"><img src="assets/shots/lighthouse-in-a-storm-1.jpg" width="160" alt="A lighthouse in a storm"></a> | **[A lighthouse in a storm](#lighthouse-in-a-storm)**<br><sub>Films and animated shorts</sub> | [rohit](https://x.com/rohit3a) | 52 | 1.9K | 8/10 |
-| <a href="#piano-boy-short"><img src="assets/shots/piano-boy-short-1.jpg" width="160" alt="A 46-second film with zero generated images"></a> | **[A 46-second film with zero generated images](#piano-boy-short)**<br><sub>Films and animated shorts</sub> | [Cube](https://x.com/cube__lol) | 14 | 624 | 8/10 |
-| <a href="#drained-ocean"><img src="assets/shots/drained-ocean-1.jpg" width="160" alt="What the Atlantic looks like with the water drained"></a> | **[What the Atlantic looks like with the water drained](#drained-ocean)**<br><sub>Science, space and data</sub> | [Gul Saeed Khattak](https://x.com/Ldataengineer) | 4 | 2.3K | 8/10 |
-| <a href="#car-configurator"><img src="assets/shots/car-configurator-1.jpg" width="160" alt="A car configurator made on medium thinking"></a> | **[A car configurator made on medium thinking](#car-configurator)**<br><sub>Websites and interactive pages</sub> | [Rez](https://x.com/RezAIT00) | 3 | 598 | 8/10 |
-| <a href="#ufo-area-51"><img src="assets/shots/ufo-area-51-1.jpg" width="160" alt="A UFO lands at Area 51"></a> | **[A UFO lands at Area 51](#ufo-area-51)**<br><sub>Films and animated shorts</sub> | [Dante](https://x.com/danteeonsol) | 3 | 209 | 8/10 |
-| <a href="#deep-sea-dive"><img src="assets/shots/deep-sea-dive-1.jpg" width="160" alt="A dive from the surface to 40 metres"></a> | **[A dive from the surface to 40 metres](#deep-sea-dive)**<br><sub>Science, space and data</sub> | [g_beyrouti](https://x.com/g_beyrouti) | 1 | 94 | 8/10 |
-| <a href="#doomsday-earth"><img src="assets/shots/doomsday-earth-1.jpg" width="160" alt="Doomsday Earth: eight ways to destroy the planet"></a> | **[Doomsday Earth: eight ways to destroy the planet](#doomsday-earth)**<br><sub>Websites and interactive pages</sub> | [0xVe1vet](https://x.com/0xVe1vet) |  | 162 | 8/10 |
-| <a href="#pocket-black-hole"><img src="assets/shots/pocket-black-hole-1.jpg" width="160" alt="A pocket black hole"></a> | **[A pocket black hole](#pocket-black-hole)**<br><sub>Science, space and data</sub> | [Paul Gegenyi](https://x.com/paulgrowthlab) |  | 43 | 8/10 |
-| <a href="#galaxy-dive"><img src="assets/shots/galaxy-dive-1.jpg" width="160" alt="Fly into a spiral galaxy"></a> | **[Fly into a spiral galaxy](#galaxy-dive)**<br><sub>Science, space and data</sub> | [Marko Vineli](https://x.com/handsher_NGU) | 24 | 1.6K | 7/10 |
-| <a href="#lighthouse-at-sunset"><img src="assets/shots/lighthouse-at-sunset-1.jpg" width="160" alt="A photorealistic lighthouse at sunset"></a> | **[A photorealistic lighthouse at sunset](#lighthouse-at-sunset)**<br><sub>3D worlds and dioramas</sub> | [Not Harris](https://x.com/viewsfrom02108) | 2 | 305 | 7/10 |
-| <a href="#spider-web-logo"><img src="assets/shots/spider-web-logo-1.jpg" width="160" alt="A spider weaves the Claude logo into its web"></a> | **[A spider weaves the Claude logo into its web](#spider-web-logo)**<br><sub>Films and animated shorts</sub> | [sudoPhoeniX](https://x.com/sudoPhoeniX) | 1 | 79 | 7/10 |
+| | Video | Maker | Model | Likes | Views | Score |
+|---|---|---|---|---|---|---|
+| <a href="#istanbul"><img src="assets/shots/istanbul-1.jpg" width="160" alt="Istanbul, built from a prompt"></a> | **[Istanbul, built from a prompt](#istanbul)**<br><sub>3D worlds and dioramas</sub> | [Peter Gostev](https://x.com/petergostev) | Claude Fable 5.2 Max | 2.9K | 468.1K | 10/10 |
+| <a href="#locomotive-robot-anime"><img src="assets/shots/locomotive-robot-anime-1.jpg" width="160" alt="A 90-second anime short: a steam locomotive becomes a robot"></a> | **[A 90-second anime short: a steam locomotive becomes a robot](#locomotive-robot-anime)**<br><sub>Films and animated shorts</sub> | [0kncn](https://x.com/0kncn) | Claude Fable 5.2 | 409 | 69.5K | 10/10 |
+| <a href="#constructivist-chat-ui"><img src="assets/shots/constructivist-chat-ui-1.jpg" width="160" alt="A constructivist chat app that changes form"></a> | **[A constructivist chat app that changes form](#constructivist-chat-ui)**<br><sub>Websites and interactive pages</sub> | [396](https://www.xiaohongshu.com/explore/6af43061000000002b005285) | Claude Fable 5.2 | 1.5K |  | 9/10 |
+| <a href="#art-history-cat"><img src="assets/shots/art-history-cat-1.jpg" width="160" alt="40,000 years of art history in one prompt"></a> | **[40,000 years of art history in one prompt](#art-history-cat)**<br><sub>Films and animated shorts</sub> | [Tommy618](https://www.xiaohongshu.com/explore/6af35ef7000000002501da46) | Claude Fable 5.2 | 315 |  | 9/10 |
+| <a href="#geonosis-battle-blender"><img src="assets/shots/geonosis-battle-blender-1.jpg" width="160" alt="A Star Wars battle built in Blender"></a> | **[A Star Wars battle built in Blender](#geonosis-battle-blender)**<br><sub>Films and animated shorts</sub> | [Aditya](https://x.com/adityavg13) | Claude Fable 5.2 | 292 | 44.3K | 9/10 |
+| <a href="#laundry-in-the-sun"><img src="assets/shots/laundry-in-the-sun-1.jpg" width="160" alt="Laundry on a line in the afternoon light"></a> | **[Laundry on a line in the afternoon light](#laundry-in-the-sun)**<br><sub>Films and animated shorts</sub> | [Dan Fein](https://x.com/dfeinition) | Claude Fable 5.2 | 210 | 8.3K | 9/10 |
+| <a href="#auric-voyage"><img src="assets/shots/auric-voyage-1.jpg" width="160" alt="Auric Voyage: a golden ship above the clouds"></a> | **[Auric Voyage: a golden ship above the clouds](#auric-voyage)**<br><sub>3D worlds and dioramas</sub> | [Marcel](https://x.com/marcthecreatorr) | Claude Fable 5.2 | 111 | 4.8K | 9/10 |
+| <a href="#pirate-ship"><img src="assets/shots/pirate-ship-1.jpg" width="160" alt="A pirate ship sailing at sunset"></a> | **[A pirate ship sailing at sunset](#pirate-ship)**<br><sub>3D worlds and dioramas</sub> | [J A Z I I](https://x.com/notjazii) | Claude Fable 5.2 | 110 | 4.7K | 9/10 |
+| <a href="#voxel-pagoda"><img src="assets/shots/voxel-pagoda-1.jpg" width="160" alt="A voxel pagoda full of tiny details"></a> | **[A voxel pagoda full of tiny details](#voxel-pagoda)**<br><sub>3D worlds and dioramas</sub> | [Lumina](https://x.com/LuminaBench) | Claude Fable 5.2 | 104 | 4.5K | 9/10 |
+| <a href="#fushimi-inari-travel-ad"><img src="assets/shots/fushimi-inari-travel-ad-1.jpg" width="160" alt="A travel ad for Fushimi Inari in autumn"></a> | **[A travel ad for Fushimi Inari in autumn](#fushimi-inari-travel-ad)**<br><sub>Films and animated shorts</sub> | [Peter Yang](https://x.com/petergyang) | Claude Fable 5.2 | 83 | 10K | 9/10 |
+| <a href="#rainy-tokyo-alley"><img src="assets/shots/rainy-tokyo-alley-1.jpg" width="160" alt="A rainy Tokyo alley made without a video model"></a> | **[A rainy Tokyo alley made without a video model](#rainy-tokyo-alley)**<br><sub>Films and animated shorts</sub> | [Higgsfield AI](https://x.com/higgsfield_ai) | Claude Fable 5.2 | 68 | 11.2K | 9/10 |
+| <a href="#voxel-paris-1888"><img src="assets/shots/voxel-paris-1888-1.jpg" width="160" alt="Paris in 1888, the Eiffel Tower under construction"></a> | **[Paris in 1888, the Eiffel Tower under construction](#voxel-paris-1888)**<br><sub>3D worlds and dioramas</sub> | [Rez](https://x.com/RezAIT00) | Claude Fable 5.2 | 41 | 4.5K | 9/10 |
+| <a href="#abyssal-landing-page"><img src="assets/shots/abyssal-landing-page-1.jpg" width="160" alt="Abyssal: a landing page that scrolls into the ocean"></a> | **[Abyssal: a landing page that scrolls into the ocean](#abyssal-landing-page)**<br><sub>Websites and interactive pages</sub> | [Pratzyy](https://x.com/pratyushrungta) | Claude Fable 5.2 | 9 | 456 | 9/10 |
+| <a href="#liquid-glass-type"><img src="assets/shots/liquid-glass-type-1.jpg" width="160" alt="Glass, amber and liquid metal type"></a> | **[Glass, amber and liquid metal type](#liquid-glass-type)**<br><sub>Websites and interactive pages</sub> | [Iliyass](https://x.com/ioTanjiro) | Claude Fable 5.2 | 6 | 282 | 9/10 |
+| <a href="#night-tokyo-ramen-stall"><img src="assets/shots/night-tokyo-ramen-stall-1.jpg" width="160" alt="A ramen stall on a rainy Tokyo night"></a> | **[A ramen stall on a rainy Tokyo night](#night-tokyo-ramen-stall)**<br><sub>3D worlds and dioramas</sub> | [sprinntt](https://x.com/sprinntt) | Claude Fable 5.2 | 3 | 1K | 9/10 |
+| <a href="#crystal-bud-flight"><img src="assets/shots/crystal-bud-flight-1.jpg" width="160" alt="A crystal bud, then a flight over purple fields"></a> | **[A crystal bud, then a flight over purple fields](#crystal-bud-flight)**<br><sub>Films and animated shorts</sub> | [每天懂点AI](https://www.xiaohongshu.com/explore/6af2654f000000002a02a15b) | Claude Fable 5.2 | 176 |  | 8/10 |
+| <a href="#pet-robot"><img src="assets/shots/pet-robot-1.jpg" width="160" alt="A pet robot you could build at home"></a> | **[A pet robot you could build at home](#pet-robot)**<br><sub>Films and animated shorts</sub> | [Matt Shumer](https://x.com/mattshumer_) | Claude Fable 5.2 | 151 | 138.4K | 8/10 |
+| <a href="#blender-island-rebuild"><img src="assets/shots/blender-island-rebuild-1.jpg" width="160" alt="An island rebuilt in Blender from a reference"></a> | **[An island rebuilt in Blender from a reference](#blender-island-rebuild)**<br><sub>3D worlds and dioramas</sub> | [sweetretry](https://www.xiaohongshu.com/explore/6af29c4a0000000018027978) | Claude Fable 5.2 | 85 |  | 8/10 |
+| <a href="#floating-pixel-island"><img src="assets/shots/floating-pixel-island-1.jpg" width="160" alt="A floating pixel island"></a> | **[A floating pixel island](#floating-pixel-island)**<br><sub>3D worlds and dioramas</sub> | [JUMPERZ](https://x.com/jumperz) | Claude Fable 5.2 | 75 | 3K | 8/10 |
+| <a href="#talking-village"><img src="assets/shots/talking-village-1.jpg" width="160" alt="A European village where every character thinks"></a> | **[A European village where every character thinks](#talking-village)**<br><sub>3D worlds and dioramas</sub> | [Matthew Berman](https://x.com/MatthewBerman) | Claude Fable 5.2 | 61 | 5.4K | 8/10 |
+| <a href="#virus-capsid"><img src="assets/shots/virus-capsid-1.jpg" width="160" alt="A virus shell assembling itself"></a> | **[A virus shell assembling itself](#virus-capsid)**<br><sub>Science, space and data</sub> | [Tekon Burns](https://x.com/TekonBurns) | Claude Fable 5.2 | 55 | 3.8K | 8/10 |
+| <a href="#lighthouse-in-a-storm"><img src="assets/shots/lighthouse-in-a-storm-1.jpg" width="160" alt="A lighthouse in a storm"></a> | **[A lighthouse in a storm](#lighthouse-in-a-storm)**<br><sub>Films and animated shorts</sub> | [rohit](https://x.com/rohit3a) | Claude Fable 5.2 | 52 | 1.9K | 8/10 |
+| <a href="#piano-boy-short"><img src="assets/shots/piano-boy-short-1.jpg" width="160" alt="A 46-second film with zero generated images"></a> | **[A 46-second film with zero generated images](#piano-boy-short)**<br><sub>Films and animated shorts</sub> | [Cube](https://x.com/cube__lol) | Claude Fable 5.2 | 14 | 624 | 8/10 |
+| <a href="#drained-ocean"><img src="assets/shots/drained-ocean-1.jpg" width="160" alt="What the Atlantic looks like with the water drained"></a> | **[What the Atlantic looks like with the water drained](#drained-ocean)**<br><sub>Science, space and data</sub> | [Gul Saeed Khattak](https://x.com/Ldataengineer) | Claude Fable 5.2 | 4 | 2.3K | 8/10 |
+| <a href="#car-configurator"><img src="assets/shots/car-configurator-1.jpg" width="160" alt="A car configurator made on medium thinking"></a> | **[A car configurator made on medium thinking](#car-configurator)**<br><sub>Websites and interactive pages</sub> | [Rez](https://x.com/RezAIT00) | Claude Fable 5.2 | 3 | 598 | 8/10 |
+| <a href="#ufo-area-51"><img src="assets/shots/ufo-area-51-1.jpg" width="160" alt="A UFO lands at Area 51"></a> | **[A UFO lands at Area 51](#ufo-area-51)**<br><sub>Films and animated shorts</sub> | [Dante](https://x.com/danteeonsol) | Claude Fable 5.2 | 3 | 209 | 8/10 |
+| <a href="#deep-sea-dive"><img src="assets/shots/deep-sea-dive-1.jpg" width="160" alt="A dive from the surface to 40 metres"></a> | **[A dive from the surface to 40 metres](#deep-sea-dive)**<br><sub>Science, space and data</sub> | [g_beyrouti](https://x.com/g_beyrouti) | Claude Fable 5.2 | 1 | 94 | 8/10 |
+| <a href="#doomsday-earth"><img src="assets/shots/doomsday-earth-1.jpg" width="160" alt="Doomsday Earth: eight ways to destroy the planet"></a> | **[Doomsday Earth: eight ways to destroy the planet](#doomsday-earth)**<br><sub>Websites and interactive pages</sub> | [0xVe1vet](https://x.com/0xVe1vet) | Claude Fable 5.2 |  | 162 | 8/10 |
+| <a href="#pocket-black-hole"><img src="assets/shots/pocket-black-hole-1.jpg" width="160" alt="A pocket black hole"></a> | **[A pocket black hole](#pocket-black-hole)**<br><sub>Science, space and data</sub> | [Paul Gegenyi](https://x.com/paulgrowthlab) | Claude Fable 5.2 |  | 43 | 8/10 |
+| <a href="#galaxy-dive"><img src="assets/shots/galaxy-dive-1.jpg" width="160" alt="Fly into a spiral galaxy"></a> | **[Fly into a spiral galaxy](#galaxy-dive)**<br><sub>Science, space and data</sub> | [Marko Vineli](https://x.com/handsher_NGU) | Claude Fable 5.2 | 24 | 1.6K | 7/10 |
+| <a href="#lighthouse-at-sunset"><img src="assets/shots/lighthouse-at-sunset-1.jpg" width="160" alt="A photorealistic lighthouse at sunset"></a> | **[A photorealistic lighthouse at sunset](#lighthouse-at-sunset)**<br><sub>3D worlds and dioramas</sub> | [Not Harris](https://x.com/viewsfrom02108) | Claude Fable 5.2 | 2 | 305 | 7/10 |
+| <a href="#spider-web-logo"><img src="assets/shots/spider-web-logo-1.jpg" width="160" alt="A spider weaves the Claude logo into its web"></a> | **[A spider weaves the Claude logo into its web](#spider-web-logo)**<br><sub>Films and animated shorts</sub> | [sudoPhoeniX](https://x.com/sudoPhoeniX) | Claude Fable 5.2 | 1 | 79 | 7/10 |
 
 ## Films and animated shorts
 
@@ -71,6 +71,7 @@ Hand-drawn-looking 2D anime made from one prompt: Fable built every shot in Blen
 
 - **Watch:** [the original post on X](https://x.com/0kncn/status/2119901782482543073) (409 likes, 69.5K views), posted 2026-11-09
 - **Made by:** [@0kncn](https://x.com/0kncn)
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2 + Blender (Python) + numpy for the music
 
 <details><summary><b>Prompt</b> (verbatim from the maker, <a href="https://x.com/0kncn/status/2119901786060259612">source</a>, click to expand)</summary>
@@ -127,6 +128,7 @@ The same person and the same cat redrawn in every era, from an Egyptian wall pai
 
 - **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6af35ef7000000002501da46) (315 likes), posted 2026-11-11
 - **Made by:** Tommy618 on Xiaohongshu
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
 
@@ -139,6 +141,7 @@ The maker's Star Wars Blender Bench, which they run on every new model: the firs
 
 - **Watch:** [the original post on X](https://x.com/adityavg13/status/2119903463735799971) (292 likes, 44.3K views), posted 2026-11-09
 - **Made by:** Aditya ([@adityavg13](https://x.com/adityavg13))
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2 driving Blender; one prompt, 1.5 hours including a 20-minute render
 - **Prompt:** One prompt; the maker hasn't posted it.
 
@@ -153,6 +156,7 @@ Two people watch shirts flap on a washing line in a sunny field. The folds, the 
 
 - **Watch:** [the original post on X](https://x.com/dfeinition/status/2119886262211625062) (210 likes, 8.3K views), posted 2026-11-09
 - **Made by:** Dan Fein ([@dfeinition](https://x.com/dfeinition))
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
 
@@ -165,6 +169,7 @@ A 20-second travel ad for the Kyoto shrine in autumn: the gate, a run through th
 
 - **Watch:** [the original post on X](https://x.com/petergyang/status/2119886560992854431) (83 likes, 10K views), posted 2026-11-09
 - **Made by:** Peter Yang ([@petergyang](https://x.com/petergyang))
+- **Model:** Claude Fable 5.2
 - **More:** The maker's YouTube video runs the same prompt on Opus 5.5: https://youtu.be/SsSKJA0EHD4
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
@@ -178,6 +183,7 @@ Rain, puddles and neon reflections in a narrow Tokyo alley, with a street mirror
 
 - **Watch:** [the original post on X](https://x.com/higgsfield_ai/status/2119905141822484595) (68 likes, 11.2K views), posted 2026-11-09
 - **Made by:** Higgsfield AI ([@higgsfield_ai](https://x.com/higgsfield_ai))
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2 through Higgsfield's MCP (posted by Higgsfield)
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
@@ -191,6 +197,7 @@ A frosted flower bud opens the film, then the camera flies low over meadows, sno
 
 - **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6af2654f000000002a02a15b) (176 likes), posted 2026-11-10
 - **Made by:** 每天懂点AI on Xiaohongshu
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
 
@@ -203,6 +210,7 @@ Asked to design a robot he could actually build in his apartment, Fable came bac
 
 - **Watch:** [the original post on X](https://x.com/mattshumer_/status/2119889518564147409) (151 likes, 138.4K views), posted 2026-11-09
 - **Made by:** Matt Shumer ([@mattshumer_](https://x.com/mattshumer_))
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
 
@@ -215,6 +223,7 @@ A lighthouse sweeps its beam over a heaving night sea until the clouds part arou
 
 - **Watch:** [the original post on X](https://x.com/rohit3a/status/2119899684999487954) (52 likes, 1.9K views), posted 2026-11-09
 - **Made by:** rohit ([@rohit3a](https://x.com/rohit3a))
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2 on high effort
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
@@ -228,6 +237,7 @@ A boy at a piano, as a short animated film. Every frame was drawn and every note
 
 - **Watch:** [the original post on X](https://x.com/cube__lol/status/2119904449556832554) (14 likes, 624 views), posted 2026-11-09
 - **Made by:** Cube ([@cube__lol](https://x.com/cube__lol))
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2, drawing and music in code
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
@@ -241,6 +251,7 @@ A 30-second, five-shot film written in three.js and Remotion: a saucer descends 
 
 - **Watch:** [the original post on X](https://x.com/danteeonsol/status/2119887623070077213) (3 likes, 209 views), posted 2026-11-09
 - **Made by:** Dante ([@danteeonsol](https://x.com/danteeonsol))
+- **Model:** Claude Fable 5.2
 - **How:** three.js + Remotion
 
 **Prompt** (verbatim from the maker; the whole prompt, quoted in the post, [source](https://x.com/danteeonsol/status/2119887623070077213)):
@@ -260,6 +271,7 @@ A moonlit spider spins its web step by step, from the bridge line and radial spo
 
 - **Watch:** [the original post on X](https://x.com/sudoPhoeniX/status/2119885209621655872) (1 likes, 79 views), posted 2026-11-09
 - **Made by:** [@sudoPhoeniX](https://x.com/sudoPhoeniX)
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 7/10 for visuals, polish and ambition.</sub>
 
@@ -274,6 +286,7 @@ The whole city from the air: the Hagia Sophia and the Golden Horn, ferries cross
 
 - **Watch:** [the original post on X](https://x.com/petergostev/status/2119877733488394520) (2.9K likes, 468.1K views), posted 2026-11-09
 - **Made by:** Peter Gostev ([@petergostev](https://x.com/petergostev))
+- **Model:** Claude Fable 5.2 Max
 - **How:** Fable 5.2 Max
 
 <sub>Our score: 10/10 for visuals, polish and ambition.</sub>
@@ -287,6 +300,7 @@ A golden sailing ship over a sea of volumetric clouds, with a day and night cycl
 
 - **Watch:** [the original post on X](https://x.com/marcthecreatorr/status/2119890973560054072) (111 likes, 4.8K views), posted 2026-11-09
 - **Made by:** Marcel ([@marcthecreatorr](https://x.com/marcthecreatorr))
+- **Model:** Claude Fable 5.2
 - **How:** Claude Code on medium effort, about 38 minutes and $17
 - **Open it yourself:** https://claude.ai/artifact/7ge282etTXSS4edGFTFa85
 - **Prompt:** The maker posted the full prompt, a long design spec, as two images in a reply. [See the reply](https://x.com/marcthecreatorr/status/2119905815872106993).
@@ -302,6 +316,7 @@ A three-masted ship cutting through the sea at sunset, with a wake, lit cabin wi
 
 - **Watch:** [the original post on X](https://x.com/notjazii/status/2119905661505122575) (110 likes, 4.7K views), posted 2026-11-09
 - **Made by:** J A Z I I ([@notjazii](https://x.com/notjazii))
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2, about 1.5 hours and 35M tokens (~$34)
 - **Open it yourself:** https://tests.jazii.dev
 
@@ -316,6 +331,7 @@ A floating voxel island with a five-storey pagoda, cherry blossoms, ponds and la
 
 - **Watch:** [the original post on X](https://x.com/LuminaBench/status/2119907096636657696) (104 likes, 4.5K views), posted 2026-11-09
 - **Made by:** Lumina ([@LuminaBench](https://x.com/LuminaBench))
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2 on high effort (the maker calls it the sweet spot)
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
@@ -329,6 +345,7 @@ A floating voxel diorama of Paris with the Eiffel Tower half built: cranes lift 
 
 - **Watch:** [the original post on X](https://x.com/RezAIT00/status/2119894257519767656) (41 likes, 4.5K views), posted 2026-11-09
 - **Made by:** Rez ([@RezAIT00](https://x.com/RezAIT00))
+- **Model:** Claude Fable 5.2
 
 <details><summary><b>Prompt</b> (verbatim from the maker; posted by the maker in a reply, who credits the prompt to @semichenkko, <a href="https://x.com/RezAIT00/status/2119898136894156960">source</a>, click to expand)</summary>
 
@@ -349,6 +366,7 @@ Episode 4 of the maker's Night Tokyo series: one PROMPT.md, an empty folder and 
 
 - **Watch:** [the original post on X](https://x.com/sprinntt/status/2119906202330988961) (3 likes, 1K views), posted 2026-11-09
 - **Made by:** [@sprinntt](https://x.com/sprinntt)
+- **Model:** Claude Fable 5.2
 - **How:** Claude Code on medium effort, about 20 minutes and $7.11
 - **Prompt:** The maker uses the same PROMPT.md for every episode but hasn't posted it.
 
@@ -363,6 +381,7 @@ Fable worked in Blender from code alone, never opening the interface: 130 object
 
 - **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6af29c4a0000000018027978) (85 likes), posted 2026-11-10
 - **Made by:** sweetretry on Xiaohongshu
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2 driving Blender from Python
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
@@ -376,6 +395,7 @@ A looping pixel-art island in the clouds with a wizard's tower, cherry trees, a 
 
 - **Watch:** [the original post on X](https://x.com/jumperz/status/2119884258789757436) (75 likes, 3K views), posted 2026-11-09
 - **Made by:** [@jumperz](https://x.com/jumperz)
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2 on extra-high effort, one prompt
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
@@ -389,6 +409,7 @@ A 3D European village whose people think and talk to each other with AI, from hi
 
 - **Watch:** [the original post on X](https://x.com/MatthewBerman/status/2119868638929060195) (61 likes, 5.4K views), posted 2026-11-09
 - **Made by:** Matthew Berman ([@MatthewBerman](https://x.com/MatthewBerman))
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
 
@@ -401,6 +422,7 @@ The maker's standing lighthouse prompt, run on Fable 5.2: a striped lighthouse o
 
 - **Watch:** [the original post on X](https://x.com/viewsfrom02108/status/2119896345729437907) (2 likes, 305 views), posted 2026-11-09
 - **Made by:** Not Harris ([@viewsfrom02108](https://x.com/viewsfrom02108))
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 7/10 for visuals, polish and ambition.</sub>
 
@@ -415,6 +437,7 @@ A phone interface for a companion-chat app, restyled by Fable 5.2 in a construct
 
 - **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6af43061000000002b005285) (1.5K likes), posted 2026-11-11
 - **Made by:** 396 on Xiaohongshu
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
 
@@ -427,6 +450,7 @@ A landing page for a deep-sea dive: scrolling takes you from a moonlit surface d
 
 - **Watch:** [the original post on X](https://x.com/pratyushrungta/status/2119903348354945416) (9 likes, 456 views), posted 2026-11-09
 - **Made by:** Pratzyy ([@pratyushrungta](https://x.com/pratyushrungta))
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2 on low effort
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
@@ -440,6 +464,7 @@ A landing page where blobs of glass, amber and liquid metal push through giant h
 
 - **Watch:** [the original post on X](https://x.com/ioTanjiro/status/2119891527438606534) (6 likes, 282 views), posted 2026-11-09
 - **Made by:** Iliyass ([@ioTanjiro](https://x.com/ioTanjiro))
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
 
@@ -452,6 +477,7 @@ A product page for a red electric sedan: orbit the car, change the paint and whe
 
 - **Watch:** [the original post on X](https://x.com/RezAIT00/status/2119896578987020389) (3 likes, 598 views), posted 2026-11-09
 - **Made by:** Rez ([@RezAIT00](https://x.com/RezAIT00))
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2 on medium effort, 12 minutes
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
@@ -465,6 +491,7 @@ Earth in space with real NASA maps, city lights and clouds, and eight ways to en
 
 - **Watch:** [the original post on X](https://x.com/0xVe1vet/status/2119896809669849204) (162 views), posted 2026-11-09
 - **Made by:** [@0xVe1vet](https://x.com/0xVe1vet)
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
 
@@ -479,6 +506,7 @@ One prompt, one HTML file: 420 protein subunits assemble into a T=7 virus shell,
 
 - **Watch:** [the original post on X](https://x.com/TekonBurns/status/2119871565311660260) (55 likes, 3.8K views), posted 2026-11-09
 - **Made by:** Tekon Burns ([@TekonBurns](https://x.com/TekonBurns))
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
 
@@ -491,6 +519,7 @@ Fable pulled real NOAA seafloor data and built a 3D flyover as the ocean drains:
 
 - **Watch:** [the original post on X](https://x.com/Ldataengineer/status/2119896030993146101) (4 likes, 2.3K views), posted 2026-11-09
 - **Made by:** Gul Saeed Khattak ([@Ldataengineer](https://x.com/Ldataengineer))
+- **Model:** Claude Fable 5.2
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
 
@@ -503,6 +532,7 @@ A diver sinks past schools of fish while the sunlight, colours and torch beam ch
 
 - **Watch:** [the original post on X](https://x.com/g_beyrouti/status/2119904386826780943) (1 likes, 94 views), posted 2026-11-09
 - **Made by:** [@g_beyrouti](https://x.com/g_beyrouti)
+- **Model:** Claude Fable 5.2
 - **How:** Fable 5.2, code only
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
@@ -516,6 +546,7 @@ The maker asked Fable 5.2 for something that would go viral and got an interacti
 
 - **Watch:** [the original post on X](https://x.com/paulgrowthlab/status/2119890500979499382) (43 views), posted 2026-11-09
 - **Made by:** Paul Gegenyi ([@paulgrowthlab](https://x.com/paulgrowthlab))
+- **Model:** Claude Fable 5.2
 - **Open it yourself:** https://paulgegenyi.com/blackhole
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
@@ -529,13 +560,14 @@ Start outside a spiral galaxy and fly into it, with a light-year counter ticking
 
 - **Watch:** [the original post on X](https://x.com/handsher_NGU/status/2119910478025789655) (24 likes, 1.6K views), posted 2026-11-09
 - **Made by:** Marko Vineli ([@handsher_NGU](https://x.com/handsher_NGU))
+- **Model:** Claude Fable 5.2
 - **Open it yourself:** https://galaxy-dive.vercel.app
 
 <sub>Our score: 7/10 for visuals, polish and ambition.</sub>
 
 ## How we pick and score
 
-- The maker says the video was made with **Claude Fable 5.2**.
+- Any model is welcome if the result is great. Each entry names the model the maker says they used, or says the maker didn't name it.
 - It has to look good. We watch every video and leave out rough tests; the score (out of 10) is ours, for visuals, polish and ambition.
 - We open every post and its replies by hand to find the tools, the effort level, the cost and any prompt the maker shared.
 - Likes and views are what the original post showed when we checked it (November 11 and 12, 2026). Most posts are from X; four are from Xiaohongshu (小红书), which shows likes but not views.
@@ -543,7 +575,7 @@ Start outside a spiral galaxy and fly into it, with a light-year counter ticking
 
 ## Add a video
 
-Made a video with Claude Fable 5.2, or found a great one? Open an issue or a pull request with the post link, and the prompt if it's public.
+Made a great video with Claude Fable 5.2 or another model, or found one? Open an issue or a pull request with the post link, the model used, and the prompt if it's public.
 
 ## Credits and removal
 

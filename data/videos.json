@@ -22,7 +22,8 @@
    "assets/shots/istanbul-1.jpg",
    "assets/shots/istanbul-2.jpg",
    "assets/shots/istanbul-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2 Max"
  },
  {
   "slug": "locomotive-robot-anime",
@@ -47,7 +48,8 @@
    "assets/shots/locomotive-robot-anime-1.jpg",
    "assets/shots/locomotive-robot-anime-2.jpg",
    "assets/shots/locomotive-robot-anime-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "constructivist-chat-ui",
@@ -72,7 +74,8 @@
    "assets/shots/constructivist-chat-ui-1.jpg",
    "assets/shots/constructivist-chat-ui-2.jpg",
    "assets/shots/constructivist-chat-ui-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "art-history-cat",
@@ -97,7 +100,8 @@
    "assets/shots/art-history-cat-1.jpg",
    "assets/shots/art-history-cat-2.jpg",
    "assets/shots/art-history-cat-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "geonosis-battle-blender",
@@ -122,7 +126,8 @@
    "assets/shots/geonosis-battle-blender-1.jpg",
    "assets/shots/geonosis-battle-blender-2.jpg",
    "assets/shots/geonosis-battle-blender-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "laundry-in-the-sun",
@@ -147,7 +152,8 @@
    "assets/shots/laundry-in-the-sun-1.jpg",
    "assets/shots/laundry-in-the-sun-2.jpg",
    "assets/shots/laundry-in-the-sun-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "auric-voyage",
@@ -172,7 +178,8 @@
    "assets/shots/auric-voyage-1.jpg",
    "assets/shots/auric-voyage-2.jpg",
    "assets/shots/auric-voyage-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "pirate-ship",
@@ -197,7 +204,8 @@
    "assets/shots/pirate-ship-1.jpg",
    "assets/shots/pirate-ship-2.jpg",
    "assets/shots/pirate-ship-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "voxel-pagoda",
@@ -222,7 +230,8 @@
    "assets/shots/voxel-pagoda-1.jpg",
    "assets/shots/voxel-pagoda-2.jpg",
    "assets/shots/voxel-pagoda-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "fushimi-inari-travel-ad",
@@ -247,7 +256,8 @@
    "assets/shots/fushimi-inari-travel-ad-1.jpg",
    "assets/shots/fushimi-inari-travel-ad-2.jpg",
    "assets/shots/fushimi-inari-travel-ad-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "rainy-tokyo-alley",
@@ -272,7 +282,8 @@
    "assets/shots/rainy-tokyo-alley-1.jpg",
    "assets/shots/rainy-tokyo-alley-2.jpg",
    "assets/shots/rainy-tokyo-alley-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "voxel-paris-1888",
@@ -297,7 +308,8 @@
    "assets/shots/voxel-paris-1888-1.jpg",
    "assets/shots/voxel-paris-1888-2.jpg",
    "assets/shots/voxel-paris-1888-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "abyssal-landing-page",
@@ -322,7 +334,8 @@
    "assets/shots/abyssal-landing-page-1.jpg",
    "assets/shots/abyssal-landing-page-2.jpg",
    "assets/shots/abyssal-landing-page-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "liquid-glass-type",
@@ -347,7 +360,8 @@
    "assets/shots/liquid-glass-type-1.jpg",
    "assets/shots/liquid-glass-type-2.jpg",
    "assets/shots/liquid-glass-type-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "night-tokyo-ramen-stall",
@@ -372,7 +386,8 @@
    "assets/shots/night-tokyo-ramen-stall-1.jpg",
    "assets/shots/night-tokyo-ramen-stall-2.jpg",
    "assets/shots/night-tokyo-ramen-stall-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "crystal-bud-flight",
@@ -397,7 +412,8 @@
    "assets/shots/crystal-bud-flight-1.jpg",
    "assets/shots/crystal-bud-flight-2.jpg",
    "assets/shots/crystal-bud-flight-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "pet-robot",
@@ -422,7 +438,8 @@
    "assets/shots/pet-robot-1.jpg",
    "assets/shots/pet-robot-2.jpg",
    "assets/shots/pet-robot-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "blender-island-rebuild",
@@ -447,7 +464,8 @@
    "assets/shots/blender-island-rebuild-1.jpg",
    "assets/shots/blender-island-rebuild-2.jpg",
    "assets/shots/blender-island-rebuild-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "floating-pixel-island",
@@ -472,7 +490,8 @@
    "assets/shots/floating-pixel-island-1.jpg",
    "assets/shots/floating-pixel-island-2.jpg",
    "assets/shots/floating-pixel-island-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "talking-village",
@@ -497,7 +516,8 @@
    "assets/shots/talking-village-1.jpg",
    "assets/shots/talking-village-2.jpg",
    "assets/shots/talking-village-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "virus-capsid",
@@ -522,7 +542,8 @@
    "assets/shots/virus-capsid-1.jpg",
    "assets/shots/virus-capsid-2.jpg",
    "assets/shots/virus-capsid-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "lighthouse-in-a-storm",
@@ -547,7 +568,8 @@
    "assets/shots/lighthouse-in-a-storm-1.jpg",
    "assets/shots/lighthouse-in-a-storm-2.jpg",
    "assets/shots/lighthouse-in-a-storm-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "piano-boy-short",
@@ -572,7 +594,8 @@
    "assets/shots/piano-boy-short-1.jpg",
    "assets/shots/piano-boy-short-2.jpg",
    "assets/shots/piano-boy-short-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "drained-ocean",
@@ -597,7 +620,8 @@
    "assets/shots/drained-ocean-1.jpg",
    "assets/shots/drained-ocean-2.jpg",
    "assets/shots/drained-ocean-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "car-configurator",
@@ -622,7 +646,8 @@
    "assets/shots/car-configurator-1.jpg",
    "assets/shots/car-configurator-2.jpg",
    "assets/shots/car-configurator-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "ufo-area-51",
@@ -647,7 +672,8 @@
    "assets/shots/ufo-area-51-1.jpg",
    "assets/shots/ufo-area-51-2.jpg",
    "assets/shots/ufo-area-51-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "deep-sea-dive",
@@ -672,7 +698,8 @@
    "assets/shots/deep-sea-dive-1.jpg",
    "assets/shots/deep-sea-dive-2.jpg",
    "assets/shots/deep-sea-dive-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "doomsday-earth",
@@ -697,7 +724,8 @@
    "assets/shots/doomsday-earth-1.jpg",
    "assets/shots/doomsday-earth-2.jpg",
    "assets/shots/doomsday-earth-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "pocket-black-hole",
@@ -722,7 +750,8 @@
    "assets/shots/pocket-black-hole-1.jpg",
    "assets/shots/pocket-black-hole-2.jpg",
    "assets/shots/pocket-black-hole-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "galaxy-dive",
@@ -747,7 +776,8 @@
    "assets/shots/galaxy-dive-1.jpg",
    "assets/shots/galaxy-dive-2.jpg",
    "assets/shots/galaxy-dive-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "lighthouse-at-sunset",
@@ -772,7 +802,8 @@
    "assets/shots/lighthouse-at-sunset-1.jpg",
    "assets/shots/lighthouse-at-sunset-2.jpg",
    "assets/shots/lighthouse-at-sunset-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  },
  {
   "slug": "spider-web-logo",
@@ -797,6 +828,7 @@
    "assets/shots/spider-web-logo-1.jpg",
    "assets/shots/spider-web-logo-2.jpg",
    "assets/shots/spider-web-logo-3.jpg"
-  ]
+  ],
+  "model": "Claude Fable 5.2"
  }
 ]
