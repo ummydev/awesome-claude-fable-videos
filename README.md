@@ -66,10 +66,10 @@ Sorted by our score, then by likes on the original post. Click a frame to jump t
 Hand-drawn-looking 2D anime made from one prompt: Fable built every shot in Blender from Python, rendered it in Eevee and inked each frame in a second pass. The iron bridge, engine shed, explosions and smoke are all its work, and so is the score, written note by note with numpy at 144 bpm.
 
 - **Watch:** [the original post on X](https://x.com/0kncn/status/2119901782482543073) (409 likes, 69.5K views), posted 2026-11-09
-- **Made by:** 0kncn ([@0kncn](https://x.com/0kncn))
+- **Made by:** [@0kncn](https://x.com/0kncn)
 - **How:** Fable 5.2 + Blender (Python) + numpy for the music
 
-<details><summary><b>Prompt</b> (verbatim from the maker, [source](https://x.com/0kncn/status/2119901786060259612))</summary>
+<details><summary><b>Prompt</b> (verbatim from the maker, <a href="https://x.com/0kncn/status/2119901786060259612">source</a>, click to expand)</summary>
 
 ```text
 Create a 2D anime short. It must look completely like real Japanese anime, as if it were taken directly from a finished theatrical anime film. This is traditional-looking, hand-drawn 2D anime, not a 3D animation, a moving illustration, or a stylized web graphic.
@@ -231,7 +231,7 @@ make me a 30 second video of a UFO visiting Area 51 and greeting humans, ultra d
 A moonlit spider spins its web step by step, from the bridge line and radial spokes to the capture spiral, then stitches the Claude logo into the centre by dawn.
 
 - **Watch:** [the original post on X](https://x.com/sudoPhoeniX/status/2119885209621655872) (1 likes, 79 views), posted 2026-11-09
-- **Made by:** sudoPhoeniX ([@sudoPhoeniX](https://x.com/sudoPhoeniX))
+- **Made by:** [@sudoPhoeniX](https://x.com/sudoPhoeniX)
 
 <sub>Our score: 7/10 for visuals, polish and ambition.</sub>
 
@@ -302,7 +302,7 @@ A floating voxel diorama of Paris with the Eiffel Tower half built: cranes lift 
 - **Watch:** [the original post on X](https://x.com/RezAIT00/status/2119894257519767656) (41 likes, 4.5K views), posted 2026-11-09
 - **Made by:** Rez ([@RezAIT00](https://x.com/RezAIT00))
 
-<details><summary><b>Prompt</b> (verbatim from the maker; posted by the maker in a reply, who credits the prompt to @semichenkko, [source](https://x.com/RezAIT00/status/2119898136894156960))</summary>
+<details><summary><b>Prompt</b> (verbatim from the maker; posted by the maker in a reply, who credits the prompt to @semichenkko, <a href="https://x.com/RezAIT00/status/2119898136894156960">source</a>, click to expand)</summary>
 
 ```text
 Build a single self-contained three.js HTML page that renders a 14-second animation (1280x720, 30fps, deterministic: expose window.renderAt(t) so every frame can be captured).  Scene: a floating voxel diorama island - Paris, 1888, the Eiffel Tower under construction. Everything is already moving on frame 1.  Island: - floating chunk with layered rock underside, the Seine curving across the front with stone quays and an arched bridge - Champ de Mars: dirt work yard, stacks of iron girders, wooden sheds, a steam engine with a smoking chimney - around it: rows of Haussmann buildings with cream walls, grey zinc roofs, chimneys, tiny trees along the boulevards  The tower (the hero): - dark reddish-brown wrought iron lattice made of thin voxel beams with real X-bracing, not solid blocks - four curved legs and the first platform finished, the second level half built, the top section only a skeleton - wooden scaffolding towers under the legs, small creeper cranes on the structure lifting girders on chains - glowing orange rivet sparks where workers hammer, small puffs of steam  Life (hundreds of tiny voxel people, ~3 voxels tall): - riveting teams on every level with hammers swinging, workers walking along beams - girders hoisted by cranes swinging slowly into place - horse-drawn carts carrying iron across the yard, crowds of onlookers in 1880s clothes with top hats and parasols - a riverboat with a smoking funnel moving along the Seine, carriages crossing the bridge, pigeons circling the tower  Camera and look: - wide view of the whole island, slow orbit (~25 degrees) with a gentle push-in toward the tower - warm late-afternoon sun, soft shadows, ambient occlusion, light haze, rounded voxels, ACES tone mapping, soft bloom on sparks
@@ -320,7 +320,7 @@ Build a single self-contained three.js HTML page that renders a 14-second animat
 Episode 4 of the maker's Night Tokyo series: one PROMPT.md, an empty folder and no hand edits. The scene is interactive: press T and the rain slowly turns to snow.
 
 - **Watch:** [the original post on X](https://x.com/sprinntt/status/2119906202330988961) (3 likes, 1K views), posted 2026-11-09
-- **Made by:** sprinntt ([@sprinntt](https://x.com/sprinntt))
+- **Made by:** [@sprinntt](https://x.com/sprinntt)
 - **How:** Claude Code on medium effort, about 20 minutes and $7.11
 - **Prompt:** The maker uses the same PROMPT.md for every episode but hasn't posted it.
 
@@ -334,7 +334,7 @@ Episode 4 of the maker's Night Tokyo series: one PROMPT.md, an empty folder and 
 A looping pixel-art island in the clouds with a wizard's tower, cherry trees, a rainbow, airships and a ringed planet. A single prompt on extra-high effort.
 
 - **Watch:** [the original post on X](https://x.com/jumperz/status/2119884258789757436) (75 likes, 3K views), posted 2026-11-09
-- **Made by:** JUMPERZ ([@jumperz](https://x.com/jumperz))
+- **Made by:** [@jumperz](https://x.com/jumperz)
 - **How:** Fable 5.2 on extra-high effort, one prompt
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
@@ -411,7 +411,7 @@ A product page for a red electric sedan: orbit the car, change the paint and whe
 Earth in space with real NASA maps, city lights and clouds, and eight ways to end it: an asteroid strike, a solar superstorm, a god that eats the planet like an apple, and a last one that turns it to dust. Made on the first try.
 
 - **Watch:** [the original post on X](https://x.com/0xVe1vet/status/2119896809669849204) (162 views), posted 2026-11-09
-- **Made by:** 0xVe1vet ([@0xVe1vet](https://x.com/0xVe1vet))
+- **Made by:** [@0xVe1vet](https://x.com/0xVe1vet)
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
 
@@ -449,7 +449,7 @@ Fable pulled real NOAA seafloor data and built a 3D flyover as the ocean drains:
 A diver sinks past schools of fish while the sunlight, colours and torch beam change with depth, with a depth gauge on the side. The maker says it's 100% code.
 
 - **Watch:** [the original post on X](https://x.com/g_beyrouti/status/2119904386826780943) (1 likes, 94 views), posted 2026-11-09
-- **Made by:** g_beyrouti ([@g_beyrouti](https://x.com/g_beyrouti))
+- **Made by:** [@g_beyrouti](https://x.com/g_beyrouti)
 - **How:** Fable 5.2, code only
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
