@@ -6,7 +6,7 @@
 
 A curated list of **videos made with AI coding models**, most of them with Claude Fable 5.2, Anthropic's model released on November 9, 2026. Each entry names the model its maker says they used. Most of them are pure code, in Three.js, WebGL, Remotion or Blender driven from Python, with no image or video model involved. Short films, 3D worlds, landing pages and science visuals, each credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**32 videos · 4 with prompts · 4 you can open yourself** · Updated 2026-11-12
+**32 videos · 4 with prompts · 4 you can open yourself** · Updated 2026-11-13
 
 Looking for games? See **[awesome-claude-fable-games](https://github.com/ummydev/awesome-claude-fable-games)**.
 
@@ -302,7 +302,7 @@ A golden sailing ship over a sea of volumetric clouds, with a day and night cycl
 - **Made by:** Marcel ([@marcthecreatorr](https://x.com/marcthecreatorr))
 - **Model:** Claude Fable 5.2
 - **How:** Claude Code on medium effort, about 38 minutes and $17
-- **Open it yourself:** https://claude.ai/artifact/7ge282etTXSS4edGFTFa85
+- **Live URL (open it yourself):** https://claude.ai/artifact/7ge282etTXSS4edGFTFa85
 - **Prompt:** The maker posted the full prompt, a long design spec, as two images in a reply. [See the reply](https://x.com/marcthecreatorr/status/2119905815872106993).
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
@@ -318,7 +318,7 @@ A three-masted ship cutting through the sea at sunset, with a wake, lit cabin wi
 - **Made by:** J A Z I I ([@notjazii](https://x.com/notjazii))
 - **Model:** Claude Fable 5.2
 - **How:** Fable 5.2, about 1.5 hours and 35M tokens (~$34)
-- **Open it yourself:** https://tests.jazii.dev
+- **Live URL (open it yourself):** https://tests.jazii.dev
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
 
@@ -547,7 +547,7 @@ The maker asked Fable 5.2 for something that would go viral and got an interacti
 - **Watch:** [the original post on X](https://x.com/paulgrowthlab/status/2119890500979499382) (43 views), posted 2026-11-09
 - **Made by:** Paul Gegenyi ([@paulgrowthlab](https://x.com/paulgrowthlab))
 - **Model:** Claude Fable 5.2
-- **Open it yourself:** https://paulgegenyi.com/blackhole
+- **Live URL (open it yourself):** https://paulgegenyi.com/blackhole
 
 <sub>Our score: 8/10 for visuals, polish and ambition.</sub>
 
@@ -561,7 +561,7 @@ Start outside a spiral galaxy and fly into it, with a light-year counter ticking
 - **Watch:** [the original post on X](https://x.com/handsher_NGU/status/2119910478025789655) (24 likes, 1.6K views), posted 2026-11-09
 - **Made by:** Marko Vineli ([@handsher_NGU](https://x.com/handsher_NGU))
 - **Model:** Claude Fable 5.2
-- **Open it yourself:** https://galaxy-dive.vercel.app
+- **Live URL (open it yourself):** https://galaxy-dive.vercel.app
 
 <sub>Our score: 7/10 for visuals, polish and ambition.</sub>
 
