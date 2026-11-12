@@ -1,14 +1,14 @@
 # Awesome Claude Fable Videos
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Videos](https://img.shields.io/badge/videos-28-8a5cf6) ![Prompts](https://img.shields.io/badge/with_prompts-4-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Videos](https://img.shields.io/badge/videos-32-8a5cf6) ![Prompts](https://img.shields.io/badge/with_prompts-4-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <img src="assets/mosaic.jpg" alt="Frames from videos made with Claude Fable 5.2: Istanbul from the air, a locomotive anime, a voxel pagoda, a rainy Tokyo alley, a pirate ship at sunset and more" width="100%">
 
 A curated list of **videos made with Claude Fable 5.2**, Anthropic's model released on November 9, 2026. Most of them are pure code, in Three.js, WebGL, Remotion or Blender driven from Python, with no image or video model involved. Short films, 3D worlds, landing pages and science visuals, each credited to its maker and linked to the post where they shared it. Where the maker published the prompt, it's copied here word for word.
 
-**28 videos · 4 with prompts · 4 you can open yourself** · Updated 2026-11-12
+**32 videos · 4 with prompts · 4 you can open yourself** · Updated 2026-11-12
 
-Looking for games? See **[awesome-claude-fable-games](https://github.com/ummydev/awesome-claude-fable-games)**. For launch films and motion graphics made with Opus 5.5, see **[awesome-claude-motion-video](https://github.com/ummydev/awesome-claude-motion-video)**.
+Looking for games? See **[awesome-claude-fable-games](https://github.com/ummydev/awesome-claude-fable-games)**.
 
 ## Contents
 
@@ -29,6 +29,8 @@ Sorted by our score, then by likes on the original post. Click a frame to jump t
 |---|---|---|---|---|---|
 | <a href="#istanbul"><img src="assets/shots/istanbul-1.jpg" width="160" alt="Istanbul, built from a prompt"></a> | **[Istanbul, built from a prompt](#istanbul)**<br><sub>3D worlds and dioramas</sub> | [Peter Gostev](https://x.com/petergostev) | 2.9K | 468.1K | 10/10 |
 | <a href="#locomotive-robot-anime"><img src="assets/shots/locomotive-robot-anime-1.jpg" width="160" alt="A 90-second anime short: a steam locomotive becomes a robot"></a> | **[A 90-second anime short: a steam locomotive becomes a robot](#locomotive-robot-anime)**<br><sub>Films and animated shorts</sub> | [0kncn](https://x.com/0kncn) | 409 | 69.5K | 10/10 |
+| <a href="#constructivist-chat-ui"><img src="assets/shots/constructivist-chat-ui-1.jpg" width="160" alt="A constructivist chat app that changes form"></a> | **[A constructivist chat app that changes form](#constructivist-chat-ui)**<br><sub>Websites and interactive pages</sub> | [396](https://www.xiaohongshu.com/explore/6af43061000000002b005285) | 1.5K |  | 9/10 |
+| <a href="#art-history-cat"><img src="assets/shots/art-history-cat-1.jpg" width="160" alt="40,000 years of art history in one prompt"></a> | **[40,000 years of art history in one prompt](#art-history-cat)**<br><sub>Films and animated shorts</sub> | [Tommy618](https://www.xiaohongshu.com/explore/6af35ef7000000002501da46) | 315 |  | 9/10 |
 | <a href="#geonosis-battle-blender"><img src="assets/shots/geonosis-battle-blender-1.jpg" width="160" alt="A Star Wars battle built in Blender"></a> | **[A Star Wars battle built in Blender](#geonosis-battle-blender)**<br><sub>Films and animated shorts</sub> | [Aditya](https://x.com/adityavg13) | 292 | 44.3K | 9/10 |
 | <a href="#laundry-in-the-sun"><img src="assets/shots/laundry-in-the-sun-1.jpg" width="160" alt="Laundry on a line in the afternoon light"></a> | **[Laundry on a line in the afternoon light](#laundry-in-the-sun)**<br><sub>Films and animated shorts</sub> | [Dan Fein](https://x.com/dfeinition) | 210 | 8.3K | 9/10 |
 | <a href="#auric-voyage"><img src="assets/shots/auric-voyage-1.jpg" width="160" alt="Auric Voyage: a golden ship above the clouds"></a> | **[Auric Voyage: a golden ship above the clouds](#auric-voyage)**<br><sub>3D worlds and dioramas</sub> | [Marcel](https://x.com/marcthecreatorr) | 111 | 4.8K | 9/10 |
@@ -40,7 +42,9 @@ Sorted by our score, then by likes on the original post. Click a frame to jump t
 | <a href="#abyssal-landing-page"><img src="assets/shots/abyssal-landing-page-1.jpg" width="160" alt="Abyssal: a landing page that scrolls into the ocean"></a> | **[Abyssal: a landing page that scrolls into the ocean](#abyssal-landing-page)**<br><sub>Websites and interactive pages</sub> | [Pratzyy](https://x.com/pratyushrungta) | 9 | 456 | 9/10 |
 | <a href="#liquid-glass-type"><img src="assets/shots/liquid-glass-type-1.jpg" width="160" alt="Glass, amber and liquid metal type"></a> | **[Glass, amber and liquid metal type](#liquid-glass-type)**<br><sub>Websites and interactive pages</sub> | [Iliyass](https://x.com/ioTanjiro) | 6 | 282 | 9/10 |
 | <a href="#night-tokyo-ramen-stall"><img src="assets/shots/night-tokyo-ramen-stall-1.jpg" width="160" alt="A ramen stall on a rainy Tokyo night"></a> | **[A ramen stall on a rainy Tokyo night](#night-tokyo-ramen-stall)**<br><sub>3D worlds and dioramas</sub> | [sprinntt](https://x.com/sprinntt) | 3 | 1K | 9/10 |
+| <a href="#crystal-bud-flight"><img src="assets/shots/crystal-bud-flight-1.jpg" width="160" alt="A crystal bud, then a flight over purple fields"></a> | **[A crystal bud, then a flight over purple fields](#crystal-bud-flight)**<br><sub>Films and animated shorts</sub> | [每天懂点AI](https://www.xiaohongshu.com/explore/6af2654f000000002a02a15b) | 176 |  | 8/10 |
 | <a href="#pet-robot"><img src="assets/shots/pet-robot-1.jpg" width="160" alt="A pet robot you could build at home"></a> | **[A pet robot you could build at home](#pet-robot)**<br><sub>Films and animated shorts</sub> | [Matt Shumer](https://x.com/mattshumer_) | 151 | 138.4K | 8/10 |
+| <a href="#blender-island-rebuild"><img src="assets/shots/blender-island-rebuild-1.jpg" width="160" alt="An island rebuilt in Blender from a reference"></a> | **[An island rebuilt in Blender from a reference](#blender-island-rebuild)**<br><sub>3D worlds and dioramas</sub> | [sweetretry](https://www.xiaohongshu.com/explore/6af29c4a0000000018027978) | 85 |  | 8/10 |
 | <a href="#floating-pixel-island"><img src="assets/shots/floating-pixel-island-1.jpg" width="160" alt="A floating pixel island"></a> | **[A floating pixel island](#floating-pixel-island)**<br><sub>3D worlds and dioramas</sub> | [JUMPERZ](https://x.com/jumperz) | 75 | 3K | 8/10 |
 | <a href="#talking-village"><img src="assets/shots/talking-village-1.jpg" width="160" alt="A European village where every character thinks"></a> | **[A European village where every character thinks](#talking-village)**<br><sub>3D worlds and dioramas</sub> | [Matthew Berman](https://x.com/MatthewBerman) | 61 | 5.4K | 8/10 |
 | <a href="#virus-capsid"><img src="assets/shots/virus-capsid-1.jpg" width="160" alt="A virus shell assembling itself"></a> | **[A virus shell assembling itself](#virus-capsid)**<br><sub>Science, space and data</sub> | [Tekon Burns](https://x.com/TekonBurns) | 55 | 3.8K | 8/10 |
@@ -114,6 +118,18 @@ Before the final render a script tests every frame on the real meshes: no part o
 
 <sub>Our score: 10/10 for visuals, polish and ambition.</sub>
 
+### 40,000 years of art history in one prompt
+<a id="art-history-cat"></a>
+
+<p><a href="https://www.xiaohongshu.com/explore/6af35ef7000000002501da46"><img src="assets/shots/art-history-cat-1.jpg" width="32%" alt="40,000 years of art history in one prompt: frame 1"></a> <a href="https://www.xiaohongshu.com/explore/6af35ef7000000002501da46"><img src="assets/shots/art-history-cat-2.jpg" width="32%" alt="40,000 years of art history in one prompt: frame 2"></a> <a href="https://www.xiaohongshu.com/explore/6af35ef7000000002501da46"><img src="assets/shots/art-history-cat-3.jpg" width="32%" alt="40,000 years of art history in one prompt: frame 3"></a></p>
+
+The same person and the same cat redrawn in every era, from an Egyptian wall painting and a Song dynasty ink scroll to Van Gogh, Mondrian, pixel art and 2026. One prompt, about 4,900 lines of code, no image model.
+
+- **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6af35ef7000000002501da46) (315 likes), posted 2026-11-11
+- **Made by:** Tommy618 on Xiaohongshu
+
+<sub>Our score: 9/10 for visuals, polish and ambition.</sub>
+
 ### A Star Wars battle built in Blender
 <a id="geonosis-battle-blender"></a>
 
@@ -165,6 +181,18 @@ Rain, puddles and neon reflections in a narrow Tokyo alley, with a street mirror
 - **How:** Fable 5.2 through Higgsfield's MCP (posted by Higgsfield)
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
+
+### A crystal bud, then a flight over purple fields
+<a id="crystal-bud-flight"></a>
+
+<p><a href="https://www.xiaohongshu.com/explore/6af2654f000000002a02a15b"><img src="assets/shots/crystal-bud-flight-1.jpg" width="32%" alt="A crystal bud, then a flight over purple fields: frame 1"></a> <a href="https://www.xiaohongshu.com/explore/6af2654f000000002a02a15b"><img src="assets/shots/crystal-bud-flight-2.jpg" width="32%" alt="A crystal bud, then a flight over purple fields: frame 2"></a> <a href="https://www.xiaohongshu.com/explore/6af2654f000000002a02a15b"><img src="assets/shots/crystal-bud-flight-3.jpg" width="32%" alt="A crystal bud, then a flight over purple fields: frame 3"></a></p>
+
+A frosted flower bud opens the film, then the camera flies low over meadows, snowy peaks and fields of purple flowers. The maker says it took half an hour.
+
+- **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6af2654f000000002a02a15b) (176 likes), posted 2026-11-10
+- **Made by:** 每天懂点AI on Xiaohongshu
+
+<sub>Our score: 8/10 for visuals, polish and ambition.</sub>
 
 ### A pet robot you could build at home
 <a id="pet-robot"></a>
@@ -326,6 +354,19 @@ Episode 4 of the maker's Night Tokyo series: one PROMPT.md, an empty folder and 
 
 <sub>Our score: 9/10 for visuals, polish and ambition.</sub>
 
+### An island rebuilt in Blender from a reference
+<a id="blender-island-rebuild"></a>
+
+<p><a href="https://www.xiaohongshu.com/explore/6af29c4a0000000018027978"><img src="assets/shots/blender-island-rebuild-1.jpg" width="32%" alt="An island rebuilt in Blender from a reference: frame 1"></a> <a href="https://www.xiaohongshu.com/explore/6af29c4a0000000018027978"><img src="assets/shots/blender-island-rebuild-2.jpg" width="32%" alt="An island rebuilt in Blender from a reference: frame 2"></a> <a href="https://www.xiaohongshu.com/explore/6af29c4a0000000018027978"><img src="assets/shots/blender-island-rebuild-3.jpg" width="32%" alt="An island rebuilt in Blender from a reference: frame 3"></a></p>
+
+Fable worked in Blender from code alone, never opening the interface: 130 objects and 1.14 million faces, no textures (every colour is computed), a turning water wheel and swimming fish. The reference only showed one corner; Fable filled in the rest.
+
+- **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6af29c4a0000000018027978) (85 likes), posted 2026-11-10
+- **Made by:** sweetretry on Xiaohongshu
+- **How:** Fable 5.2 driving Blender from Python
+
+<sub>Our score: 8/10 for visuals, polish and ambition.</sub>
+
 ### A floating pixel island
 <a id="floating-pixel-island"></a>
 
@@ -364,6 +405,18 @@ The maker's standing lighthouse prompt, run on Fable 5.2: a striped lighthouse o
 <sub>Our score: 7/10 for visuals, polish and ambition.</sub>
 
 ## Websites and interactive pages
+
+### A constructivist chat app that changes form
+<a id="constructivist-chat-ui"></a>
+
+<p><a href="https://www.xiaohongshu.com/explore/6af43061000000002b005285"><img src="assets/shots/constructivist-chat-ui-1.jpg" width="32%" alt="A constructivist chat app that changes form: frame 1"></a> <a href="https://www.xiaohongshu.com/explore/6af43061000000002b005285"><img src="assets/shots/constructivist-chat-ui-2.jpg" width="32%" alt="A constructivist chat app that changes form: frame 2"></a> <a href="https://www.xiaohongshu.com/explore/6af43061000000002b005285"><img src="assets/shots/constructivist-chat-ui-3.jpg" width="32%" alt="A constructivist chat app that changes form: frame 3"></a></p>
+
+A phone interface for a companion-chat app, restyled by Fable 5.2 in a constructivist look: swallows, moon phases, an inhuman eye, a spiral staircase and loops, with the chat screens drawn like survey maps and letters. The screen recording shows each transition.
+
+- **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6af43061000000002b005285) (1.5K likes), posted 2026-11-11
+- **Made by:** 396 on Xiaohongshu
+
+<sub>Our score: 9/10 for visuals, polish and ambition.</sub>
 
 ### Abyssal: a landing page that scrolls into the ocean
 <a id="abyssal-landing-page"></a>
@@ -485,7 +538,7 @@ Start outside a spiral galaxy and fly into it, with a light-year counter ticking
 - The maker says the video was made with **Claude Fable 5.2**.
 - It has to look good. We watch every video and leave out rough tests; the score (out of 10) is ours, for visuals, polish and ambition.
 - We open every post and its replies by hand to find the tools, the effort level, the cost and any prompt the maker shared.
-- Likes and views are what the original post showed when we checked it (November 11 and 12, 2026).
+- Likes and views are what the original post showed when we checked it (November 11 and 12, 2026). Most posts are from X; four are from Xiaohongshu (小红书), which shows likes but not views.
 - The frames above are stills from each maker's own video, linked back to the post. Machine-readable list: [`data/videos.json`](data/videos.json).
 
 ## Add a video

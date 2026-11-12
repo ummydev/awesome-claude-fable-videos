@@ -50,6 +50,56 @@
   ]
  },
  {
+  "slug": "constructivist-chat-ui",
+  "title": "A constructivist chat app that changes form",
+  "section": "Websites and interactive pages",
+  "maker": "396",
+  "handle": null,
+  "url": "https://www.xiaohongshu.com/explore/6af43061000000002b005285",
+  "date": "2026-11-11",
+  "likes": 1539,
+  "reposts": 0,
+  "views": 0,
+  "score": 9,
+  "desc": "A phone interface for a companion-chat app, restyled by Fable 5.2 in a constructivist look: swallows, moon phases, an inhuman eye, a spiral staircase and loops, with the chat screens drawn like survey maps and letters. The screen recording shows each transition.",
+  "built": null,
+  "play": null,
+  "prompt": null,
+  "prompt_src": null,
+  "prompt_note": null,
+  "extra": null,
+  "imgs": [
+   "assets/shots/constructivist-chat-ui-1.jpg",
+   "assets/shots/constructivist-chat-ui-2.jpg",
+   "assets/shots/constructivist-chat-ui-3.jpg"
+  ]
+ },
+ {
+  "slug": "art-history-cat",
+  "title": "40,000 years of art history in one prompt",
+  "section": "Films and animated shorts",
+  "maker": "Tommy618",
+  "handle": null,
+  "url": "https://www.xiaohongshu.com/explore/6af35ef7000000002501da46",
+  "date": "2026-11-11",
+  "likes": 315,
+  "reposts": 0,
+  "views": 0,
+  "score": 9,
+  "desc": "The same person and the same cat redrawn in every era, from an Egyptian wall painting and a Song dynasty ink scroll to Van Gogh, Mondrian, pixel art and 2026. One prompt, about 4,900 lines of code, no image model.",
+  "built": null,
+  "play": null,
+  "prompt": null,
+  "prompt_src": null,
+  "prompt_note": null,
+  "extra": null,
+  "imgs": [
+   "assets/shots/art-history-cat-1.jpg",
+   "assets/shots/art-history-cat-2.jpg",
+   "assets/shots/art-history-cat-3.jpg"
+  ]
+ },
+ {
   "slug": "geonosis-battle-blender",
   "title": "A Star Wars battle built in Blender",
   "section": "Films and animated shorts",
@@ -325,6 +375,31 @@
   ]
  },
  {
+  "slug": "crystal-bud-flight",
+  "title": "A crystal bud, then a flight over purple fields",
+  "section": "Films and animated shorts",
+  "maker": "每天懂点AI",
+  "handle": null,
+  "url": "https://www.xiaohongshu.com/explore/6af2654f000000002a02a15b",
+  "date": "2026-11-10",
+  "likes": 176,
+  "reposts": 0,
+  "views": 0,
+  "score": 8,
+  "desc": "A frosted flower bud opens the film, then the camera flies low over meadows, snowy peaks and fields of purple flowers. The maker says it took half an hour.",
+  "built": null,
+  "play": null,
+  "prompt": null,
+  "prompt_src": null,
+  "prompt_note": null,
+  "extra": null,
+  "imgs": [
+   "assets/shots/crystal-bud-flight-1.jpg",
+   "assets/shots/crystal-bud-flight-2.jpg",
+   "assets/shots/crystal-bud-flight-3.jpg"
+  ]
+ },
+ {
   "slug": "pet-robot",
   "title": "A pet robot you could build at home",
   "section": "Films and animated shorts",
@@ -347,6 +422,31 @@
    "assets/shots/pet-robot-1.jpg",
    "assets/shots/pet-robot-2.jpg",
    "assets/shots/pet-robot-3.jpg"
+  ]
+ },
+ {
+  "slug": "blender-island-rebuild",
+  "title": "An island rebuilt in Blender from a reference",
+  "section": "3D worlds and dioramas",
+  "maker": "sweetretry",
+  "handle": null,
+  "url": "https://www.xiaohongshu.com/explore/6af29c4a0000000018027978",
+  "date": "2026-11-10",
+  "likes": 85,
+  "reposts": 0,
+  "views": 0,
+  "score": 8,
+  "desc": "Fable worked in Blender from code alone, never opening the interface: 130 objects and 1.14 million faces, no textures (every colour is computed), a turning water wheel and swimming fish. The reference only showed one corner; Fable filled in the rest.",
+  "built": "Fable 5.2 driving Blender from Python",
+  "play": null,
+  "prompt": null,
+  "prompt_src": null,
+  "prompt_note": null,
+  "extra": null,
+  "imgs": [
+   "assets/shots/blender-island-rebuild-1.jpg",
+   "assets/shots/blender-island-rebuild-2.jpg",
+   "assets/shots/blender-island-rebuild-3.jpg"
   ]
  },
  {
